@@ -1,10 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Fedele, a passionate Python developer from 🇮🇹 with a strong background in cybersecurity, DevOps, and cloud technologies.
 
 ## 🧪 About Me
 
 - 🤖 Python developer with a focus on automation and security.
+- 🤖 AI engineer building intelligent agents, RAG systems, and MCP servers with LangChain and LangGraph.
 - 🛡️ Security expert specializing in threat detection and mitigation.
 - 🛠️ DevOps engineer experienced in CI/CD, cloud infrastructure, and container orchestration.
 - 🔄 Elasticsearch expert, building scalable search and analytics solutions.
@@ -17,6 +18,13 @@ I'm Fedele, a passionate Python developer from 🇮🇹 with a strong background
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
 ### ☁️ Cloud and DevOps
 
