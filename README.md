@@ -44,5 +44,6 @@ I'm Fedele, a passionate Python developer from 🇮🇹 with a strong background
 
 - 🌐 Check out my projects on [GitHub](https://github.com/fedelemantuano)
 - 📞 Connect with me on [LinkedIn](https://www.linkedin.com/in/fmantuano)
+- ✍️ Read [Code Geeks](https://codegeeksai.github.io/it/), the blog I'm writing with a colleague
 
 Let's collaborate and build something amazing together! 🌟
