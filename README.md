@@ -2,6 +2,11 @@
 
 I'm Fedele, a passionate Python developer from 🇮🇹 with a strong background in cybersecurity, DevOps, and cloud technologies.
 
+<p align="center">
+  <a href="https://spamscope.ai/en/"><img src="assets/spamscope.png" alt="SpamScope — Email analysis &amp; security" width="360"></a>
+  <a href="https://codegeeks.ai/en/"><img src="assets/codegeeks.png" alt="CodeGeeks — Hardware. Software. Curiosity." width="360"></a>
+</p>
+
 ## 🧪 About Me
 
 - 🤖 Python developer with a focus on automation and security.
@@ -44,6 +49,6 @@ I'm Fedele, a passionate Python developer from 🇮🇹 with a strong background
 
 - 🌐 Check out my projects on [GitHub](https://github.com/fedelemantuano)
 - 📞 Connect with me on [LinkedIn](https://www.linkedin.com/in/fmantuano)
-- ✍️ Read [Code Geeks](https://codegeeksai.github.io/it/), the blog I'm writing with a colleague
+- ✍️ Read [CodeGeeks](https://codegeeks.ai/en/), the blog I'm writing with a colleague
 
 Let's collaborate and build something amazing together! 🌟
